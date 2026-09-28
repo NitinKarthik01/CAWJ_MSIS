@@ -66,6 +66,4 @@ class DBClass
             throw new RuntimeException(e);
         }
     }
-
-
 }
